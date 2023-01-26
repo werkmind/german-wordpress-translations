@@ -1,3 +1,5 @@
+<h1>Check the Releases Tab</h1>
+
 
 The Translations are done entirely by DeepL v2 Free, without any manual correction.<br>
 This German Translation is a base project, feel free to commit changes.<br><br>
